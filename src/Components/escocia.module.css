@@ -1,0 +1,26 @@
+#section_escocia{
+    background-image: url(../imagens/escocia.jpg);
+    background-size: cover;
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.div_escocia{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    background-color: #ffffff7a;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.div_escocia h1{
+    text-align: center;
+}
+
+.div_escocia img{
+    width: 55px;
+    height: 55px;
+}

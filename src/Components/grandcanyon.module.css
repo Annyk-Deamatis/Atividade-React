@@ -1,0 +1,22 @@
+#section_grandcanyon{
+    background-image: url(../imagens/GrandCanyon.jpg);
+    background-size: cover;
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.div_grandcanyon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    background-color: #ffffff7a;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.div_grandcanyon img{
+    width: 55px;
+    height: 55px;
+}

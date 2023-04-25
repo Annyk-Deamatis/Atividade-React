@@ -1,0 +1,26 @@
+#section_aruba{
+    background-image: url(../imagens/Aruba.jpg);
+    background-size: cover;
+    padding: 70px;
+    display: flex;
+    justify-content: center;
+}
+
+.div_aruba{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 330px;
+    background-color: #ffffff7a;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.div_aruba h1{
+    text-align: center;
+}
+
+.div_aruba img{
+    width: 55px;
+    height: 55px;
+}
